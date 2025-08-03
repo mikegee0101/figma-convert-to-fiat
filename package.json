@@ -1,0 +1,17 @@
+{
+  "name": "figma-convert-to-fiat",
+  "version": "1.0.0",
+  "description": "A Figma plugin to convert cryptocurrency values to fiat currencies.",
+  "main": "code.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "keywords": ["figma", "plugin", "cryptocurrency", "converter"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.90.0",
+    "typescript": "^5.0.0"
+  }
+}

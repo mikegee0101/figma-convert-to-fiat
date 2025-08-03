@@ -1,0 +1,27 @@
+{
+  "name": "Crypto to Fiat Converter",
+  "id": "crypto-to-fiat-converter",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "https://api.coingecko.com"
+    ]
+  },
+  "menu": [
+    {
+      "name": "Convert to Fiat",
+      "menu": [
+        {
+          "name": "Convert to USD",
+          "command": "convert-to-usd"
+        }
+      ]
+    }
+  ]
+}
