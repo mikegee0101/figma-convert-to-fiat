@@ -1,10 +1,11 @@
 {
   "name": "Convert to Fiat",
-  "id": "crypto-to-fiat-converter",
+  "id": "1533662694600245804",
   "api": "1.0.0",
   "main": "code.js",
   "capabilities": [],
   "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
   "editorType": [
     "figma"
   ],
